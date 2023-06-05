@@ -1,0 +1,15 @@
+.navbar {
+  width: 100%;
+  background-color: cadetblue;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 30px;
+  font-size: 25px;
+}
+
+.navbar a {
+  color: rgb(245, 245, 245);
+  text-decoration: none;
+  margin-left: 20px;
+}
